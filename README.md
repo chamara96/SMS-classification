@@ -1,6 +1,6 @@
 # SMS-classification
 
-####Pre-Processing Steps
+#### Pre-Processing Steps
 
 - Removing unwanted column-In[4] drop the last 3 columns of the dataframe.
 - Label Encoding-In[16] set 1 if target is spam, otherwise 0.
