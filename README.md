@@ -9,3 +9,6 @@
 - Removing unnecessary punctuation - In[27]
 - Stemming - In[27] words are reduced to a root by removing inflection through dropping unnecessary characters, usually a suffix.
 
+![](https://github.com/chamara96/SMS-classification/blob/main/pre-process.png)
+
+![](https://github.com/chamara96/SMS-classification/blob/main/results.png)
